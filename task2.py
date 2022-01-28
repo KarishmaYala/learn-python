@@ -10,7 +10,3 @@ print(is_palindrome(input('Enter the value: ')),
       is_palindrome(input('Enter the value: ')),
       is_palindrome(input('Enter the value: ')),
       is_palindrome(input('Enter the value: ')))
-
-
-
-
